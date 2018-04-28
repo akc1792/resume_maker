@@ -1,0 +1,10 @@
+Roll Number,Name ,Date of birth,Address,Mobile number,E-mail id,Semester,SGPA1,SGPA2,SGPA3,SGPA4,SGPA5,SGPA6,SGPA7,SGPA8,CGPA,Hobbies,Mode of accomodation,Reference1,Reference2,Photo upload 
+2343143,ggsjdoj,1980-01-02,dfsf,4545,e@w.c,4,,,,,,,,,10,reading,Hosteller,dfsd,dfsd,HD-Wallpapers1_FOSmVKg.jpg
+2343143,ggsjdoj,1980-01-02,dfsf,4545,e@w.c,4,,,,,,,,,10,reading,Hosteller,dfsd,dfsd,
+2343143,ggsjdoj,1980-01-02,dfsf,4545,e@w.c,4,,,,,,,,,10,reading,Hosteller,dfsd,dfsd,
+2343143,ggsjdoj,1980-01-02,dfsf,4545,e@w.c,4,,,,,,,,,10,reading,Hosteller,dfsd,dfsd,
+
+2343143,ggsjdoj,1980-01-02,dfsf,4545,e@w.c,4,,,,,,,,,10,reading,Hosteller,dfsd,dfsd,
+
+,,,Enter your address here,,,,,,,,,,,,10,Enter your hobbies here,,,,
+17352565_966423340160240_7952372721300258347_n.jpg
